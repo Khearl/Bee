@@ -14,7 +14,7 @@
 
 > A home lab project built to practice the full lifecycle of a security incident — from raw packet capture to a written report — using the same categories of tooling found in real SOC environments. Built in 15 days as a self-directed program, not a job; treat this as evidence of hands-on initiative going into entry-level SOC / security operations roles.
 
-🔗 **Live site:** `[[add your GitHub Pages / hosted link here]](https://github.com/Khearl/Bee.git)`
+🔗 **Live site:** `(https://github.com/Khearl/Bee.git)`
 
 ---
 
@@ -115,15 +115,13 @@ Each case below mirrors a real SOC workflow stage — detection, response, netwo
 
 ## 15-Day Program Timeline
 
-*(General structure shown below — edit day ranges/phases to match your real schedule.)*
-
 | Days | Phase | Focus |
 |------|-------|-------|
 | 1–2 | Foundations | Cybersecurity awareness, threat landscape, lab environment setup |
 | 3–6 | SIEM Monitoring | Splunk setup, BOTSv2 ingestion, SPL practice, dashboard build, live demo |
-| 7–9 | Network Forensics | Wireshark capture/filter practice, baseline vs. anomaly comparison |
-| 10–12 | Adversary Lab | Kali Linux honeypot deployment, network isolation, log collection |
-| 13–14 | Incident Response | Ticketing workflow, triage practice, incident report writing |
+| 7–9 | Incident Response | Ticketing workflow, triage practice, incident report writing |
+| 10–12 | Network Forensics | Wireshark capture/filter practice, baseline vs. anomaly comparison |
+| 13–14 | Adversary Lab | Kali Linux honeypot deployment, network isolation, log collection |
 | 15 | Wrap-Up | Portfolio documentation, demo rehearsal, lessons learned |
 
 ## Skill Set
@@ -131,9 +129,9 @@ Each case below mirrors a real SOC workflow stage — detection, response, netwo
 | Category | Skills |
 |---|---|
 | Detection & Monitoring | Splunk, SPL, dashboard design, log correlation |
+| IR & Communication | Triage, ticketing, incident reports, stakeholder demos |
 | Network Forensics | Wireshark, protocol analysis, PCAP review, TCP stream reconstruction |
 | Lab & Linux Ops | Kali Linux, honeypot deployment, network segmentation, Linux CLI |
-| IR & Communication | Triage, ticketing, incident reports, stakeholder demos |
 
 ## Repo Structure
 

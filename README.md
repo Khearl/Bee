@@ -52,7 +52,7 @@ Each case below mirrors a real SOC workflow stage — detection, response, netwo
 
 **What I did:**
 - Ingested and explored the BOTSv2 dataset in Splunk, learning its index and sourcetype structure before writing any searches.
-- Wrote SPL queries to surface indicators of compromise — *[e.g., suspicious authentication activity, anomalous process execution, unusual DNS query patterns — swap in what you actually focused on]*.
+- Wrote SPL queries to surface indicators of compromise — *[e.g., suspicious authentication activity, anomalous process execution, unusual DNS query patterns]*.
 - Designed and built Splunk dashboards from scratch: panels, visualizations, and time-range controls for a fast read on environment health.
 - Rehearsed the dashboard as a live demo, practicing how to walk a non-technical audience through what each panel means.
 

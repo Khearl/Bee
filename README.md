@@ -1,12 +1,10 @@
-<!--
-  BEFORE PUBLISHING, replace every bracketed placeholder:
-  [Your Name], [your.email@example.com], [linkedin.com/in/you], [github.com/you],
+  Khearl Bee Tapia, tapiakhearl@gmail.com, [linkedin.com/in/you], [github.com/you],
   [Honeypot tool], [Ticketing platform], [Year]
   Also swap the italic "e.g." notes inside each case for what you actually did,
   and adjust the 15-Day Timeline to match your real schedule.
 -->
 
-# 🛡️ [Your Name] — SOC Analyst Portfolio
+# 🛡️ Khearl Bee Tapia — SOC Analyst Portfolio
 
 **15-day self-directed training lab:** SIEM threat detection, network forensics, honeypot threat intelligence, and incident response.
 
@@ -39,7 +37,7 @@
 
 ## About
 
-I'm **[Your Name]**, an aspiring SOC Analyst building hands-on detection and response skills outside the classroom. [Add 2–3 sentences: your background before this lab, what drew you to security, and the type of role you're targeting.]
+I'm **Khearl Bee Tapia**, an aspiring SOC Analyst building hands-on detection and response skills outside the classroom. [Add 2–3 sentences: your background before this lab, what drew you to security, and the type of role you're targeting.]
 
 **Lab stack:** Splunk Enterprise · BOTSv2 Dataset · Wireshark · Kali Linux · [Honeypot tool] · [Ticketing platform]
 
@@ -168,9 +166,9 @@ soc-analyst-portfolio/
 
 ## Contact
 
-- **Email:** [your.email@example.com]
+- **Email:** tapiakhearl@gmail.com
 - **LinkedIn:** [linkedin.com/in/you]
 - **GitHub:** [github.com/you]
 
 ---
-*Built as part of a 15-day self-directed SOC training lab. © [Year] [Your Name].*
+*Built as part of a 15-day self-directed SOC training lab. © [Year] Khearl Bee Tapia.*

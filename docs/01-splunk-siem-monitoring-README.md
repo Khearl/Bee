@@ -27,17 +27,15 @@ This case covers standing up a working SIEM environment and learning to turn raw
 
 ## Key SPL Queries
 
-> Replace these with your actual queries and a one-line note on what each one is hunting for.
-
 ```spl
-# [Describe what this search detects]
-index=botsv2 sourcetype=[sourcetype]
-| stats count by [field]
+# Reconnaissance / Scanning Detection
+index=botsv2 sourcetype=suricata event_type=alert
+| stats count by src_ip, dest_ip, alert.signature
 | sort -count
 
-# [Describe what this search detects]
-index=botsv2 [search terms]
-| timechart span=1h count by [field]
+# HTTP Traffic Volume (Web Activity)
+index=botsv2 sourcetype=stream:http
+| timechart span=1h count by dest_ip
 ```
 
 ## Findings

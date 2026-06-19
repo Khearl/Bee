@@ -1,8 +1,6 @@
-  Khearl Bee Tapia, tapiakhearl@gmail.com, [linkedin.com/in/you], [github.com/you],
-  [Honeypot tool], [Ticketing platform], [Year]
-  Also swap the italic "e.g." notes inside each case for what you actually did,
-  and adjust the 15-Day Timeline to match your real schedule.
--->
+  Khearl Bee Tapia, tapiakhearl@gmail.com, https://github.com/Khearl/Bee.git,
+  [Honeypot tool], [Ticketing platform], 2026
+  
 
 # 🛡️ Khearl Bee Tapia — SOC Analyst Portfolio
 
@@ -16,7 +14,7 @@
 
 > A home lab project built to practice the full lifecycle of a security incident — from raw packet capture to a written report — using the same categories of tooling found in real SOC environments. Built in 15 days as a self-directed program, not a job; treat this as evidence of hands-on initiative going into entry-level SOC / security operations roles.
 
-🔗 **Live site:** `[add your GitHub Pages / hosted link here]`
+🔗 **Live site:** `[[add your GitHub Pages / hosted link here]](https://github.com/Khearl/Bee.git)`
 
 ---
 
@@ -168,7 +166,7 @@ soc-analyst-portfolio/
 
 - **Email:** tapiakhearl@gmail.com
 - **LinkedIn:** [linkedin.com/in/you]
-- **GitHub:** [github.com/you]
+- **GitHub:** https://github.com/Khearl/Bee.git
 
 ---
-*Built as part of a 15-day self-directed SOC training lab. © [Year] Khearl Bee Tapia.*
+*Built as part of a 15-day self-directed SOC training lab. © 2026 Khearl Bee Tapia.*
